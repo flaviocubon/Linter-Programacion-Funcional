@@ -1,0 +1,1 @@
+combined5 = if (1 + 2 * 1) > 0 then length xs == 0 else if xs == [] then False else True
